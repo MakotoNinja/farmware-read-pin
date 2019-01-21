@@ -3,7 +3,7 @@
 	"language": "python",
 	"author": "MakotoNinja",
 	"description": "Pin Reading test.",
-	"version": "1.0.2",
+	"version": "1.0.1",
 	"min_os_version_major": 6,
 	"url": "https://raw.githubusercontent.com/MakotoNinja/farmware-read-pin/master/manifest.json",
 	"zip": "https://github.com/MakotoNinja/farmware-read-pin/archive/master.zip",
